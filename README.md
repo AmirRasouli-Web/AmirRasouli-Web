@@ -24,7 +24,7 @@
 <a href="https://www.facebook.com/share/pxDxjBJU49k6yBv9/?mibextid=LQQJ4d" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" alt="amirrasouli.web" width="100" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <div>
   <img src='https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif' width='100'>
   <img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width='100'>
@@ -34,8 +34,14 @@
   <img src='https://s1.ezgif.com/tmp/ezgif-1-5b21e39702.gif' width='100'>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrasouli-web&show_icons=true&locale=en&layout=compact" alt="amirrasouli-web" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrasouli-web&show_icons=true&locale=en&layout=compact" alt="amirrasouli-web" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrasouli-web&show_icons=true&locale=en" alt="amirrasouli-web" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrasouli-web&show_icons=true&locale=en" alt="amirrasouli-web" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" />
+</p>
