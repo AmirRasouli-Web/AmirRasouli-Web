@@ -21,8 +21,8 @@
 <img src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' width='500'>
 </div>
 
-<h3 align="left">You can find me :</h3>
-<p align="left">
+<h3 align="center">You can find me :</h3>
+<p align="center">
 <a href="https://linkedin.com/in/amirrasouli-web" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="amirrasouli-web" width="100" /></a>
 <a href="https://instagram.com/amirrasouli.web" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="amirrasouli.web" width="100" /></a>
 <a href="https://wa.me/+989394203252" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="amirrasouli.web" width="100" /></a>
