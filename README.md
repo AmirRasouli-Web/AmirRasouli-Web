@@ -1,9 +1,7 @@
 <h1 align="center">Hey Dear, I'm Amir Rasouli</h1>
 <h3 align="center">A studious Front-End student, who tries to be a professional and useful Developer</h3>
 
-<h3>
 ![image](https://github.com/user-attachments/assets/7a25da2c-9fbc-4c3f-b80d-6b784c95df6f)
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrasouli-web&label=Profile%20views&color=0e75b6&style=flat" alt="amirrasouli-web" /> </p>
 
