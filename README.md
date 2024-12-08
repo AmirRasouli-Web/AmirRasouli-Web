@@ -6,7 +6,7 @@
 <h1 align="center">Hey Dear, I'm Amir Rasouli</h1>
 <h3 align="center">A studious Front-End student, who tries to be a professional and useful Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrasouli-web&label=Profile%20views&color=0e75b6&style=flat" alt="amirrasouli-web" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="amirrasouli-web" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrasouli-web" alt="amirrasouli-web" /></a> </p>
 
