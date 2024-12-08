@@ -39,10 +39,5 @@
 </div>
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=amirrasouli-web&show_icons=true&locale=en" alt="amirrasouli-web" width='45%' height='200px' align='left' />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" width='45%' height='200px' align='right' />
-</div>
-
-<div align='center' width='100%'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrasouli-web&show_icons=true&locale=en&layout=compact" alt="amirrasouli-web" width='100%' height='100px'/>
+  <img src='https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca' />
 </div>
