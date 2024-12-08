@@ -38,8 +38,8 @@
   <img src='https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb' width='100'>
 </div>
 
-<div center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrasouli-web&show_icons=true&locale=en&layout=compact" alt="amirrasouli-web" width='300'/>
-  <img src="https://github-readme-stats.vercel.app/api?username=amirrasouli-web&show_icons=true&locale=en" alt="amirrasouli-web" width='300'/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" width='300'/>
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrasouli-web&show_icons=true&locale=en&layout=compact" alt="amirrasouli-web" width='50%'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amirrasouli-web&show_icons=true&locale=en" alt="amirrasouli-web" width='50%'/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" width='100%'/>
 </div>
