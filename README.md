@@ -39,7 +39,7 @@
 </div>
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrasouli-web&show_icons=true&locale=en&layout=compact" alt="amirrasouli-web" width='50%'/>
-  <img src="https://github-readme-stats.vercel.app/api?username=amirrasouli-web&show_icons=true&locale=en" alt="amirrasouli-web" width='50%'/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" width='100%'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrasouli-web&show_icons=true&locale=en&layout=compact" alt="amirrasouli-web" width='100%' height='100'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amirrasouli-web&show_icons=true&locale=en" alt="amirrasouli-web" width='40%' height='200'/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" width='40%' heigth='200'/>
 </div>
