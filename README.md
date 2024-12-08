@@ -29,8 +29,8 @@
 <a href="https://www.facebook.com/share/pxDxjBJU49k6yBv9/?mibextid=LQQJ4d" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" alt="amirrasouli.web" width="100" /></a>
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
-<div>
+<h3 align="center">Languages and Tools :</h3>
+<div align='center'>
   <img src='https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif' width='100'>
   <img src='https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif' width='100'>
   <img src='https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif' width='100'>
