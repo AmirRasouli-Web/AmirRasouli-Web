@@ -15,7 +15,8 @@
 <img src='https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif' width='500'>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrasouli-web" alt="amirrasouli-web" /></a> </p>
+
+<p align="center" margin='20 0'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrasouli-web" alt="amirrasouli-web" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, TailWind, ReactNative, NextJs and more ...**
 
