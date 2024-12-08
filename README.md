@@ -16,13 +16,7 @@
 </div>
 
 
-<p align="center" margin='20 0'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrasouli-web" alt="amirrasouli-web" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript, TailWind, ReactNative, NextJs and more ...**
-
-- 💬 Ask me about **Html5, Css3, Bootstrap, Sass for now**
-
-- 📫 How to reach me **AmirRasouli02@gmail.com**
+<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrasouli-web" alt="amirrasouli-web" /></a> </h4>
 
 <h3 align="left">You can find me :</h3>
 <p align="left">
