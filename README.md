@@ -3,11 +3,17 @@
 </div>
 
 
-<p align="center">Hey Dear, I'm Amir Rasouli</p>
+<p align="center">Hey Dear, It,s Amir</p>
+
 <div align='center'>
 <img src='https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif' width='500'>
 </div>
+
 <h3 align="center">A studious Front-End student, who tries to be a professional and useful Developer</h3>
+
+<div align='center'>
+<img src='https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif' width='500'>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrasouli-web&label=Profile%20views&color=0e75b6&style=flat" alt="amirrasouli-web" /> </p>
 
