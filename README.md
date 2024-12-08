@@ -39,8 +39,8 @@
 </div>
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=amirrasouli-web&show_icons=true&locale=en" alt="amirrasouli-web" width='45%' align='left' />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" width='45%' align='right' />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirrasouli-web&show_icons=true&locale=en" alt="amirrasouli-web" width='45%' height='200' align='left' />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" width='45%' height='200' align='right' />
 </div>
 
 <div align='center'>
