@@ -43,6 +43,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrasouli-web&" alt="amirrasouli-web" width='45%' height='200' align='right' />
 </div>
 
-<div align='center'>
+<div align='center' width='100%'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrasouli-web&show_icons=true&locale=en&layout=compact" alt="amirrasouli-web" width='100%' height='100px'/>
 </div>
